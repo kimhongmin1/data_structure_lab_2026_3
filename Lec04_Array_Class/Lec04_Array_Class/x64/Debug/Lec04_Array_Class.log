@@ -1,6 +1,2 @@
-﻿  ComplexTest.cpp
-C:\Users\82104\Desktop\데이터구조\data_structure_lab_2026_3\Lec04_Array_Class\Lec04_Array_Class\Complex.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
-  (소스 파일 'ComplexTest.cpp'을(를) 컴파일하는 중)
-  
-C:\Users\82104\Desktop\데이터구조\data_structure_lab_2026_3\Lec04_Array_Class\Lec04_Array_Class\ComplexTest.cpp(2,6): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+﻿  ImageTest.cpp
   Lec04_Array_Class.vcxproj -> C:\Users\82104\Desktop\데이터구조\data_structure_lab_2026_3\Lec04_Array_Class\x64\Debug\Lec04_Array_Class.exe

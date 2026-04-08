@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{0e7a7089-f119-4e98-b4ff-dc1c5bb5ebc9}</ProjectGuid>
+    <ProjectGuid>{c8a8d076-f877-4c76-bd53-91e083d71e8d}</ProjectGuid>
     <RootNamespace>Lec04ArrayClass</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
@@ -127,10 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ComplexTest.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Complex.h" />
+    <ClCompile Include="ImageTest.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

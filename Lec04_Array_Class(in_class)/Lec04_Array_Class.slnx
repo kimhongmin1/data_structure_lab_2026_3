@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Lec04_Array_Class/Lec04_Array_Class.vcxproj" Id="0e7a7089-f119-4e98-b4ff-dc1c5bb5ebc9" />
+  <Project Path="Polynomial/Polynomial.vcxproj" Id="1e299bf6-236c-411b-9767-dc7f74df323a" />
+</Solution>
