@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Lec10. Graph/Lec10. Graph.vcxproj" Id="7e7384af-e72c-41a0-b748-83de656fc473" />
+  <Project Path="Maze/Maze.vcxproj" Id="53cbd14f-4b08-4e54-ae7a-ceba55fb5ca5" />
+  <Project Path="MST/MST.vcxproj" Id="5282aaea-da49-4f1e-b496-01d91c9a5778" />
+  <Project Path="Prim/Prim.vcxproj" Id="cd2b9a30-7eb0-477f-94e6-565c64872661" />
+</Solution>
